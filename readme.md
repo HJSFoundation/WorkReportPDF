@@ -5,9 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version - 2.3.0p0 on ubuntu
 
-* System dependencies
+* System dependencies - postgresql
+
+sudo sudo service postgresql start
 
 * Configuration
 
